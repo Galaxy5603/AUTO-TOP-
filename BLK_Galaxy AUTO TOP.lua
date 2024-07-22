@@ -36,9 +36,9 @@ Move8 = "Demon Flash"
 
 -- SETTINGS -- 
 
-Move1 = "Deadly Dance"
-Move2 = "Anger Rush"
-Move3 = "Meteor Crash"
+Move1 = "Blaster Meteor"
+Move2 = "Sudden Storm"
+Move3 = "Chain Destructo Disk"
 
 _G.HardTop = false -- true / false -- true = auto wish (nothing,god) false = dont hard top  (nothing)
 _G.AutoWish = true -- true / false Auto Whis 
